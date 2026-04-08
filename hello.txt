@@ -1,1 +1,3 @@
 hello my name is Inha!
+
+I am trying to learn git right now.
